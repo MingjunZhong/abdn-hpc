@@ -70,7 +70,7 @@ For a graphical interface, SCP is recommended by IT services and can be installe
 
 ## 5. Initial setup, conda environment
 
-Now you have connected to Maxwell you must access your required packages, if your packages are not present in the software list (https://www.abdn.ac.uk/it/documents-uni-only/Maxwell-Galaxy-Software.pdf ), then the easiest way to download them is to create an miniconda environment.
+Now you have connected to Maxwell you must access your required packages, the the easiest way to download them is to create an miniconda environment.
 
 First load miniconda via:
 `module load miniconda3`
